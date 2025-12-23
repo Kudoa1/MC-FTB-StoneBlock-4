@@ -1,0 +1,9 @@
+# 1. Bloquear todo el contenido de la carpeta de la instancia
+/*
+
+# 2. Permitir el archivo .gitignore
+!.gitignore
+
+# 3. Permitir tus carpetas de juego y todo lo que hay dentro
+!saves/
+!config/

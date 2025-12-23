@@ -1,0 +1,35 @@
+{
+	id: "669a320c-a8b8-4519-8aae-67090deb3278"
+	type: "party"
+	owner: "27b02a49-866e-4eb6-ae84-8f71ebd5b45d"
+	ranks: {
+		27b02a49-866e-4eb6-ae84-8f71ebd5b45d: "owner"
+		f96c01eb-25f9-47c0-bf5a-c872c118e523: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "KudoaGamer's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF7759"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1766528540730L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"KudoaGamer\"],\"color\":\"yellow\"}" }
+		{ from: "27b02a49-866e-4eb6-ae84-8f71ebd5b45d", date: 1766529061826L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"MagnaIgnis\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1766529076247L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"MagnaIgnis\"],\"color\":\"green\"}" }
+	]
+	extra: { }
+}

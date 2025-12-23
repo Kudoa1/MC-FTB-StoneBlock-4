@@ -1,0 +1,15 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "ftbteambases:private_for_kudoagamer_20251223_192220", x: 1, y: 125, z: 2, time: 1766532773781L, xRot: 29.099962f, yRot: -72.1496f }
+	recording: "none"
+	teleport_history: [
+		{ dim: "minecraft:overworld", x: -72, y: -18, z: 35, time: 1766528231025L }
+		{ dim: "minecraft:overworld", x: -71, y: -18, z: 34, time: 1766528248940L }
+		{ dim: "ftbteambases:private_for_magnaignis_20251223_192228", x: -13, y: 134, z: 4, time: 1766528767890L }
+	]
+	homes: { }
+	kit_use_times: { }
+}
