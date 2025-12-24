@@ -112,3 +112,10 @@
     }
   ]
 }
+pen_screen",
+        "id": "worlds_edit_world_selection",
+        "pass_storage": true
+      }
+    }
+  ]
+}

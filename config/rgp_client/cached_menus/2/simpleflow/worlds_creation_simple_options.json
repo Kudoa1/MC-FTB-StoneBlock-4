@@ -101,3 +101,9 @@
     }
   ]
 }
+       "id": "worlds_creation_simple_checkout",
+        "pass_storage": true
+      }
+    }
+  ]
+}

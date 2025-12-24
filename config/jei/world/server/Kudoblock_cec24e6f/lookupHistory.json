@@ -1,0 +1,13 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"bonsaitrees4:bonsaipot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:clay_ball"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ftbunearthed:crude_brush"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ftbunearthed:reinforced_brush"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:brush"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ars_nouveau:wilden_wing"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:campfire"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ftbstuff:wooden_basin"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justhammers:stone_hammer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ftbstuff:stone_hammer"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

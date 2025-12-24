@@ -3,7 +3,7 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "ftbteambases:private_for_kudoagamer_20251223_192220", x: 1, y: 125, z: 2, time: 1766532773781L, xRot: 29.099962f, yRot: -72.1496f }
+	last_seen: { dim: "ftbteambases:private_for_kudoagamer_20251223_192220", x: 4, y: 125, z: 3, time: 1766602143154L, xRot: 31.34997f, yRot: 150.1497f }
 	recording: "none"
 	teleport_history: [
 		{ dim: "minecraft:overworld", x: -72, y: -18, z: 35, time: 1766528231025L }

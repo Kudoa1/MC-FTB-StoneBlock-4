@@ -31,5 +31,7 @@
 		{ from: "27b02a49-866e-4eb6-ae84-8f71ebd5b45d", date: 1766529061826L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"MagnaIgnis\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1766529076247L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"MagnaIgnis\"],\"color\":\"green\"}" }
 	]
-	extra: { }
+	extra: {
+		world_engine_checker_1: 1b
+	}
 }

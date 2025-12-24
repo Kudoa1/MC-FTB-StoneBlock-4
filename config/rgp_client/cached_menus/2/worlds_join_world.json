@@ -119,3 +119,12 @@
     }
   ]
 }
+"
+      },
+      "callback": {
+        "action": "open_screen",
+        "id": "worlds_list"
+      }
+    }
+  ]
+}

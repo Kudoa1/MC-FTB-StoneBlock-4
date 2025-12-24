@@ -133,14 +133,20 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"twilightforest:quest_ram": true
-			"minecraft:bat": true
 			"minecraft:bee": true
-			"minecraft:skeleton": true
+			"minecraft:villager": true
+			"minecraft:wolf": true
+			"minecraft:goat": true
 			"minecraft:zombie_villager": true
-			"minecraft:slime": true
-			"minecraft:chicken": true
+			"minecraft:bat": true
+			"twilightforest:quest_ram": true
+			"minecraft:enderman": true
 			"minecraft:creeper": true
+			"minecraft:chicken": true
+			"minecraft:slime": true
+			"minecraft:zombie": true
+			"minecraft:spider": true
+			"minecraft:skeleton": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
@@ -250,7 +256,7 @@
 		# Zoom distance of the minimap
 		# Default: 1.0
 		# Range: 1.0 ~ 4.0
-		zoom: 1.0d
+		zoom: 4.0d
 	}
 	waypoints: {
 		# Automatically remove death waypoints if closer than this many blocks away (distance of 0 disables removal)

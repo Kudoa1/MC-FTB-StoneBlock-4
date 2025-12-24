@@ -1,0 +1,260 @@
+{
+  "mffs:grant_book_on_first_join": {
+    "criteria": {
+      "guidebook": "2025-11-30 15:36:56 -0300"
+    },
+    "done": true
+  },
+  "occultism:chalks/root": {
+    "criteria": {
+      "always": "2025-11-30 15:36:57 -0300"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2025-11-30 15:36:57 -0300"
+    },
+    "done": true
+  },
+  "avaritia:root": {
+    "criteria": {
+      "avaritia:root": "2025-11-30 15:36:57 -0300"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2025-11-30 15:36:57 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:progression/root": {
+    "criteria": {
+      "tick": "2025-11-30 15:36:57 -0300"
+    },
+    "done": true
+  },
+  "ftbstuff:root": {
+    "criteria": {
+      "0": "2025-11-30 15:36:57 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/magnet_card": {
+    "criteria": {
+      "has_wct": "2025-11-30 15:47:21 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_encoding_terminal": {
+    "criteria": {
+      "has_wt": "2025-11-30 15:47:21 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2025-11-30 15:47:21 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2025-11-30 15:47:21 -0300",
+      "has_wct": "2025-11-30 15:47:21 -0300"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:root": {
+    "criteria": {
+      "0": "2025-11-30 15:47:21 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2025-11-30 15:47:21 -0300",
+      "has_wct": "2025-11-30 15:47:21 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2025-11-30 15:47:21 -0300"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2025-11-30 15:47:21 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2025-11-30 15:47:21 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2025-11-30 15:47:21 -0300",
+      "has_wpt": "2025-11-30 15:47:21 -0300",
+      "has_wct": "2025-11-30 15:47:21 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-11-30 15:47:21 -0300"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-11-30 15:47:21 -0300"
+    },
+    "done": true
+  },
+  "dimdungeons:dungeons/root": {
+    "criteria": {
+      "keystone_block": "2025-11-30 15:47:21 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2025-11-30 15:47:21 -0300",
+      "has_wpt": "2025-11-30 15:47:21 -0300"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2025-11-30 15:47:21 -0300"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "crafting_table": "2025-11-30 16:03:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-11-30 16:03:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-11-30 16:06:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-11-30 16:19:06 -0300"
+    },
+    "done": true
+  },
+  "constructionstick:root": {
+    "criteria": {
+      "stick": "2025-11-30 16:29:04 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-11-30 16:41:24 -0300"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-11-30 16:42:10 -0300"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-11-30 16:44:17 -0300"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-11-30 16:44:17 -0300"
+    },
+    "done": true
+  },
+  "mekanism:teleportation_core": {
+    "criteria": {
+      "teleportation_core": "2025-12-02 15:51:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-12-02 16:26:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-12-02 16:38:18 -0300"
+    },
+    "done": true
+  },
+  "apothic_enchanting:enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-12-02 16:46:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2025-12-03 00:10:20 -0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-12-03 00:12:46 -0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-12-03 00:39:31 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/turn_table": {
+    "criteria": {
+      "has_item_minecraft_cobblestone_2": "2025-12-23 19:12:13 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/checker": {
+    "criteria": {
+      "has_item_minecraft_cobblestone_1": "2025-12-23 19:12:13 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/blast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_item_minecraft_cobblestone_2": "2025-12-23 19:12:13 -0300"
+    },
+    "done": true
+  },
+  "supplementaries:recipe/relayer": {
+    "criteria": {
+      "has_item_minecraft_cobblestone_2": "2025-12-23 19:12:13 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}
